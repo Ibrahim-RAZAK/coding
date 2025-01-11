@@ -1,0 +1,6 @@
+ul>li{
+    color: aqua;
+}
+li:nth-child(3){
+    background-color: blueviolet;
+}
